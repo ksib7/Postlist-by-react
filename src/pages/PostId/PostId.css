@@ -1,0 +1,14 @@
+.heart svg {
+  cursor: pointer;
+}
+
+.heart:hover svg:hover {
+  transform: scale(1.15);
+  transition: all 0.2s;
+  opacity: 1;
+}
+
+.clickedHeart > svg {
+  opacity: 1;
+  fill: red;
+}

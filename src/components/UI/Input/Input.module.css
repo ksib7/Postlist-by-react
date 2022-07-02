@@ -1,0 +1,11 @@
+input {
+  border: 1px solid #2b75d6;
+  border-radius: 4px;
+  padding: 4px 0 5px;
+  width: 100%;
+  padding: 16.5px 14px;
+}
+
+input:last-of-type {
+  margin-top: 10px;
+}
