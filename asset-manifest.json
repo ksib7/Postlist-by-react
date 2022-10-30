@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/Postlist-by-react/static/css/main.34d420ef.css",
-    "main.js": "/Postlist-by-react/static/js/main.0d614e42.js",
-    "index.html": "/Postlist-by-react/index.html",
-    "main.34d420ef.css.map": "/Postlist-by-react/static/css/main.34d420ef.css.map",
-    "main.0d614e42.js.map": "/Postlist-by-react/static/js/main.0d614e42.js.map"
+    "main.css": "/login/static/css/main.34d420ef.css",
+    "main.js": "/login/static/js/main.0d614e42.js",
+    "index.html": "/login/index.html",
+    "main.34d420ef.css.map": "/login/static/css/main.34d420ef.css.map",
+    "main.0d614e42.js.map": "/login/static/js/main.0d614e42.js.map"
   },
   "entrypoints": [
     "static/css/main.34d420ef.css",
